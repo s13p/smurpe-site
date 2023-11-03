@@ -1,0 +1,12 @@
+.iframe-wrapper {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    margin: 2rem 0rem;
+}
+
+.iframe-wrapper iframe {
+    border-radius: 10px;
+}
